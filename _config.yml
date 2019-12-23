@@ -9,7 +9,9 @@ tagline:             'PhD student in cosmology'
 description:         ''
 url:                 http://fruzsinaagocs.github.io
 baseurl:             ''
-plugins: [jekyll-paginate]
+plugins: 
+    - jekyll-paginate
+    - jekyll-seo-tag
 paginate:            5
 paginate_path: "page:num"
 twitter_username: "@caianforphysics"
