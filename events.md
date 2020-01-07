@@ -7,16 +7,23 @@ title: Events
 
 ### 21 January 2020
 MCR-SCR talk, Gonville and Caius college, Cambridge
+
 *Seniour Parlour, main College site, 20:30*
+
 general information [here](https://www.cai.cam.ac.uk/research/seminars-and-talks/mcrscr-talks) [ and here](http://www.mcr.cai.cam.ac.uk/index.php/prospective/mcr-scr/)
+
 
 ### 29 January 2020
 Wednesday seminar, Institute of Astronomy, Cambridge
+
 *Sackler lecture theatre, 13:45*
+
 [more info on talks.cam](http://www.talks.cam.ac.uk/talk/index/136975)
+
 
 ### 30 April 2020
 Thursday CDT seminar, Kavli Institute for Cosmology, Cambridge
+
 *Ryle meeting room, 13:00*
 
 Past
