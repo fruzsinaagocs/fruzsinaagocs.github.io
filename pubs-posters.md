@@ -10,8 +10,7 @@ list](https://ui.adsabs.harvard.edu/search/q=author%3A(%22Agocs%2C%20F%22)&sort=
 
 ### Selected publications: 
 
-- **Agocs, F.**, Handley, W., Lasenby, A., and Hobson, M., (2019). *An efficient method for solving highly oscillatory
-ordinary differential equations with applications to physical systems.* [1906.01421](https://arxiv.org/abs/1906.01421)
+- **Agocs, F.**, Handley, W., Lasenby, A., and Hobson, M. *An efficient method for solving highly oscillatory ordinary differential equations with applications to physical systems.* Phys. Rev. Research 2, 013030 (2020) 
 
 ## Posters
 
