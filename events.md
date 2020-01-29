@@ -5,15 +5,6 @@ title: Events
 
 ## Upcoming
 
-
-### 29 January 2020
-Wednesday seminar, Institute of Astronomy, Cambridge
-
-*Sackler lecture theatre, 13:45*
-
-[more info on talks.cam](http://www.talks.cam.ac.uk/talk/index/136975)
-
-
 ### 30 April 2020
 Thursday CDT seminar, Kavli Institute for Cosmology, Cambridge
 
@@ -21,6 +12,14 @@ Thursday CDT seminar, Kavli Institute for Cosmology, Cambridge
 
 Past
 ----
+
+### 29 January 2020
+Wednesday seminar, Institute of Astronomy, Cambridge
+[on talks.cam](http://www.talks.cam.ac.uk/talk/index/136975)
+
+My <a href="https://fruzsinaagocs.github.io/images/Ioa_Wednesday_talk.pdf"
+target="_blank">slides</a>
+
 ### 21 January 2020
 [MCR-SCR](https://www.cai.cam.ac.uk/research/seminars-and-talks/mcrscr-talks) talk, Gonville and Caius college, Cambridge
 
