@@ -17,7 +17,7 @@ Past
 Wednesday seminar, Institute of Astronomy, Cambridge
 [on talks.cam](http://www.talks.cam.ac.uk/talk/index/136975)
 
-My <a href="https://fruzsinaagocs.github.io/images/Ioa_Wednesday_talk.pdf"
+My <a href="https://fruzsinaagocs.github.io/images/IoA_Wednesday_talk.pdf"
 target="_blank">slides</a>
 
 ### 21 January 2020
