@@ -5,8 +5,7 @@ title: Research
 
 ## oscode - fast numerical solution of **osc**illatory **o**rdinary **d**ifferential **e**quations
 
-- [paper](https://arxiv.org/pdf/1906.01421.pdf) or [blogpost]() for a less
-  formal demonstration
+- [paper](https://arxiv.org/pdf/1906.01421.pdf) and [slides](https://fruzsinaagocs.github.io/images/IoA_Wednesday_talk.pdf) from a recent [talk](https://fruzsinaagocs.github.io/events/)
 - [open-source code](https://github.com/fruzsinaagocs/oscode) and its
   [documentation](https://oscode.readthedocs.io/en/latest/introduction.html)
 
