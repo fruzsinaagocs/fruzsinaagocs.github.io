@@ -5,13 +5,34 @@ title: Events
 
 ## Upcoming
 
-### 30 April 2020
+### 9&10 July 2020
+[Scipy 2020 (virtual) conference](https://www.scipy2020.scipy.org)
+
+Talks will be live-streamed on YouTube.
+
+Astrophysics and Astronomy panel goes live: *Thursday 9th July, 17:00 CDT (23:00
+BST)*
+
+Live Q&A: *Friday 10th July, 14:45 CDT (20:45 BST)*
+
+### 30 April 2020 - **Postponed to ??**
 Thursday CDT seminar, Kavli Institute for Cosmology, Cambridge
 
 *Ryle meeting room, 13:00*
 
+### 16 March 2020 - **Postponed to ??**
+Caius conference (<a href="https://fruzsinaagocs.github.io/images/caius_conference_info.pdf" target="_blank">programme</a>), Gonville and Caius college, Cambridge
+
+*Bateman auditorium, 15:20*
+
+No registration for this event, just show up!
+
 Past
 ----
+### 1 April 2020
+Seminar at the Battcock centre for experimental astrophysics, Cambridge
+
+<a href="https://fruzsinaagocs.github.io/images/battcock-presentation-QIC.pdf" target="_blank">Slides</a>
 
 ### 29 January 2020
 Wednesday seminar, Institute of Astronomy, Cambridge

@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+  font-size: 18px;
 }
 
 html {
@@ -73,16 +74,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 44rem;
 }
-@media (min-width: 38em) {
+@media (min-width: 44em) {
   .container {
-    max-width: 32rem;
+    max-width: 40rem;
   }
 }
-@media (min-width: 56em) {
+@media (min-width: 62em) {
   .container {
-    max-width: 38rem;
+    max-width: 44rem;
   }
 }
 
@@ -144,8 +145,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -14rem;
-  width: 14rem;
+  left: -10rem;
+  width: 10rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -294,9 +295,9 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
+  -webkit-transform: translateX(10rem);
+      -ms-transform: translateX(10rem);
+          transform: translateX(10rem);
 }
 
 
