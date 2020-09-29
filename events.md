@@ -5,10 +5,16 @@ title: Events
 
 ## Upcoming
 
+### 11 November 2020
+
+I'll be giving a non-technical talk about my research at the Institute of Astronomy [Wednesday open evening](https://www.public.ast.cam.ac.uk) over zoom!
+
+Past
+----
 ### 9&10 July 2020
 [Scipy 2020 (virtual) conference](https://www.scipy2020.scipy.org)
 
-Talks will be live-streamed on YouTube.
+Talks were be live-streamed on YouTube. [My talk](https://www.youtube.com/watch?v=u7E82j8UIM4)
 
 Astrophysics and Astronomy panel goes live: *Thursday 9th July, 17:00 CDT (23:00
 BST)*
@@ -27,8 +33,6 @@ Caius conference (<a href="https://fruzsinaagocs.github.io/images/caius_conferen
 
 No registration for this event, just show up!
 
-Past
-----
 ### 1 April 2020
 Seminar at the Battcock centre for experimental astrophysics, Cambridge
 
