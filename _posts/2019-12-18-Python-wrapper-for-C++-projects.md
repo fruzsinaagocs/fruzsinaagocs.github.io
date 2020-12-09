@@ -6,7 +6,7 @@ title:  "Python wrapper for C++ projects"
 **TL;DR: I wrote an update to Dan Foreman-Mackey's template for wrapping C functions in
 Python.**
 
-I while ago I had to wrap some C++ code (belonging to the numerical solver,
+A while ago I had to wrap some C++ code (belonging to the numerical solver,
 [oscode]({% link research.md %}), I developed) in Python. 
 
 My supervisor suggested using Dan Foreman-Mackey's [blogpost](
@@ -31,7 +31,7 @@ The C++ code's name is `oscode`, and we'll call the Python interface to it
 `pyoscode`.
 
 <p align="center">
-<img src="{{site.baseurl}}/images/file-structure.eps">
+<img src="{{site.baseurl}}/images/file-structure.png" height="300">
 </p>
 
 
