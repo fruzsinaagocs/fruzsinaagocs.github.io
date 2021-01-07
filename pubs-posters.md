@@ -10,6 +10,12 @@ list](https://ui.adsabs.harvard.edu/search/q=author%3A(%22Agocs%2C%20F%22)&sort=
 
 ### Selected publications: 
 
+- *Simple and statistically sound strategies for analysing physical theories.*
+  S. S. AbdusSalam, **F. J. Agocs**, et al. (75 authors in alphabetical order,
+  including the GAMBIT community). Submitted to Nature Reviews Physics, Dec
+  2020, arXiv:2012.09874.
+- *(py)oscode: fast solutions of oscillatory ODEs*. **F. J. Agocs**. Journal of
+  Open Source Software, 5(56):2830, 2020.
 - *Dense output for highly oscillatory numerical solutions*. **F. J. Agocs**, M. P. Hobson, W. J. Handley, and A. N. Lasenby. Submitted to Phys. Rev. Research, Jul 2020, arXiv:2007.05013.
 - *Quantum initial conditions for inflation and canonical invariance*. **F. J. Agocs**, L. T. Hergt, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. D, 102:023507, Jul 2020.
 - *Efficient method for solving highly oscillatory ordinary differential equations with applications to physical systems*. **F. J. Agocs**, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. Research, 2:013030, Jan 2020.

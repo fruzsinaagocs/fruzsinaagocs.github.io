@@ -5,12 +5,34 @@ title: Events
 
 ## Upcoming
 
-### 11 November 2020
 
-I'll be giving a non-technical talk about my research at the Institute of Astronomy [Wednesday open evening](https://www.public.ast.cam.ac.uk) over zoom!
+### 8 January 2021
+
+CAM-LMU workshop: I have a second talk opportunity where I'll introduce
+pyoscode, my numerical solver for oscillatory ODEs.
 
 Past
 ----
+
+### 7 January 2021
+
+CAM-LMU workshop: I gave a talk about my theoretical work on quantum
+initial conditions for inflation.
+
+### 11 November 2020
+
+I gave a non-technical talk about my research at the Institute of Astronomy [Wednesday open evening](https://www.public.ast.cam.ac.uk) over zoom! The video is available on YouTube [here](https://www.youtube.com/watch?v=Nt1kaS4tpFk).
+
+### 11 November 2020
+
+I presented at the numerical analysis seminar at the Center of Computational
+Mathematics, Flatiron Institute.
+
+### 14 July 2020
+
+Cosmology seminar at the Beecroft Institute, University of Oxford, where I
+talked about the robustness of quantum initial conditions of inflation.
+
 ### 9&10 July 2020
 [Scipy 2020 (virtual) conference](https://www.scipy2020.scipy.org)
 

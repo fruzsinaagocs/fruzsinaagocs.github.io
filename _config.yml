@@ -14,7 +14,7 @@ plugins:
     - jekyll-seo-tag
 paginate:            5
 paginate_path: "page:num"
-twitter_username: "@caianforphysics"
+twitter_username: "@astrofruzsi"
 github_username: "fruzsinaagocs"
 linkedin_username: "fruzsina-julia-agocs"
 # To render maths:
