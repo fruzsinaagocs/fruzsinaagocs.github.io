@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Fruzsina Agocs
-tagline:             'PhD student in cosmology'
+tagline:             'Research fellow in numerical analysis'
 description:         ''
 url:                 http://fruzsinaagocs.github.io
 baseurl:             ''
@@ -28,7 +28,7 @@ include:
 author:
   name:              Fruzsina J Agocs
   url:               https://fruzsinaagocs.github.io
-  email:             fa325@cam.ac.uk
+  email:             fagocs@flatironinstitute.org
 
 # Custom vars
 # version:             1.0.0
