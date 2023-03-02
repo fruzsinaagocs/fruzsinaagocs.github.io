@@ -10,20 +10,17 @@ list](https://ui.adsabs.harvard.edu/search/q=author%3A(%22Agocs%2C%20F%22)&sort=
 
 ### Selected publications: 
 
-- *Simple and statistically sound strategies for analysing physical theories.*
+- *An adaptive spectral method for oscillatory second-order linear ODEs with frequency-independent cost*, **F. J. Agocs** and A. H. Barnett. Submitted to SIAM Numerical Analysis, 2022, arXiv:2212.06924.
+- *Quantum initial conditions for curved inflating universes*, M. I. Letey, Z. Shumaylov, **F. J. Agocs**, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Submited to Physical Review D, 2022, arXiv:2211.17248.
+- *Finite inflation in curved space*. L. T. Hergt, **F. J. Agocs**, W. J. Handley, M. P. Hobson, and A. N. Lasenby. Physical Review D, 106:63529, 2022.
+- *Simple and statistically sound recommendations for analysing physical theories.*
   S. S. AbdusSalam, **F. J. Agocs**, et al. (75 authors in alphabetical order,
-  including the GAMBIT community). Submitted to Nature Reviews Physics, Dec
-  2020, arXiv:2012.09874.
+  including the GAMBIT community). Reports on Progress in Physics, 85:52201, 2022.
 - *(py)oscode: fast solutions of oscillatory ODEs*. **F. J. Agocs**. Journal of
   Open Source Software, 5(56):2830, 2020.
-- *Dense output for highly oscillatory numerical solutions*. **F. J. Agocs**, M. P. Hobson, W. J. Handley, and A. N. Lasenby. Submitted to Phys. Rev. Research, Jul 2020, arXiv:2007.05013.
-- *Quantum initial conditions for inflation and canonical invariance*. **F. J. Agocs**, L. T. Hergt, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. D, 102:023507, Jul 2020.
-- *Efficient method for solving highly oscillatory ordinary differential equations with applications to physical systems*. **F. J. Agocs**, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. Research, 2:013030, Jan 2020.
-
-### In prep.:
-
-- *Finite inflation in curved space*. L. T. Hergt, **F. J. Agocs**, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Manuscript in preparation.
-- *Beyond the traditional WKB approximation of Boltzmann equations*. N. Schöneberg, and **F. J. Agocs**. Manuscript in preparation.
+- *Dense output for highly oscillatory numerical solutions*. **F. J. Agocs**, M. P. Hobson, W. J. Handley, and A. N. Lasenby. Submitted to Phys. Rev. Research, 2020, arXiv:2007.05013.
+- *Quantum initial conditions for inflation and canonical invariance*. **F. J. Agocs**, L. T. Hergt, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. D, 102:023507, 2020.
+- *Efficient method for solving highly oscillatory ordinary differential equations with applications to physical systems*. **F. J. Agocs**, W. J. Handley, A. N. Lasenby, and M. P. Hobson. Phys. Rev. Research, 2:013030, 2020.
 
 ## Posters
 

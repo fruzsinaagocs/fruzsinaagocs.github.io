@@ -1,18 +1,45 @@
 ---
 layout: page
-title: Events
+title: Talks, conferences
 ---
 
 ## Upcoming
 
+### 6 April 2023
+
+NYU / Courant talk
+
+Past
+----
+
+### 15 December 2022
+
+Innsbruck colloquium
+
+### 27 - 28 October 2022
+
+FWAM!
+
+### 20 October 2022
+
+Chicago CAM colloquium
+
+### 10 October 2022
+
+NJIT colloquium
+
+### 6 - 11 June 2022
+
+Invited speaker at the 6th SDIDE (Stability and Discretization issues in Differential Equations) conference.
+
+### 25 May 2022
+
+CMO Oaxaca talk
 
 ### 8 January 2021
 
 CAM-LMU workshop: I have a second talk opportunity where I'll introduce
 pyoscode, my numerical solver for oscillatory ODEs.
-
-Past
-----
 
 ### 7 January 2021
 
