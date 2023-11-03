@@ -3,7 +3,7 @@ layout: page
 title: In the media
 ---
 
-### [Personal interview](https://www.youtube.com/watch?v=u7E82j8UIM4) with dívány.hu (*in Hungarian*)
+### [Personal interview](https://divany.hu/vilagom/2020/09/24/agocs-fruzsina-interju-cambridge/) with dívány.hu (*in Hungarian*)
 
 Due to interest in my first astronomy-themed article (see below), I was invited
 to talk about my PhD/undergraduate experience and work in more detail.
