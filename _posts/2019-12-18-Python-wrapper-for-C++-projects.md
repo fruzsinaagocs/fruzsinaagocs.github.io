@@ -7,7 +7,7 @@ title:  "Python wrapper for C++ projects"
 Python.**
 
 A while ago I had to wrap some C++ code (belonging to the numerical solver,
-[oscode]({% link research.md %}), I developed) in Python. 
+oscode, I developed) in Python. 
 
 My supervisor suggested using Dan Foreman-Mackey's [blogpost](
 https://dfm.io/posts/python-c-extensions/) as a starting point, and I found

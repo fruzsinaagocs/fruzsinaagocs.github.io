@@ -1,55 +1,119 @@
 ---
 layout: default
-title: Welcome
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    {% if post.pinned %}
-      <div class="post">
-        <h1 class="post-title">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h1>
+<!-- About -->
+<section id="about">
+    <div class="container">
+        <header class="major">
+            <h3>About</h3>
+        </header>
+        <p>I'm a research fellow at the Center for Computational Mathematics within the Flatiron Insitute, working in the numerical analysis group lead by Alex Barnett. My research interests can be broadly summarised as efficient numerical methods for oscillatory differential equations, with a focus on applications in physics (mostly astrophysics and quantum mechanics). 
+
+iously I've studied at the University of Cambridge, UK, where I earned my PhD in cosmology and MSci + BA in physics.
+
+    </div>
+</section>
 
 
-        {{ post.content }}
-      </div>
-    {% endif %}
-  {% endfor %}
+<!-- Research -->
+<section id="research">
+	<div class="container">
+		<h3>Research</h3>
+		<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+		<div class="features">
+			<article>
+				<a href="#" class="image"><img src="images/cosmology.jpg" alt="" /></a>
+				<div class="inner">
+					<h4>Possibly broke spacetime</h4>
+					<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+				</div>
+			</article>
+			<article>
+				<a href="#" class="image"><img src="images/cosmology.jpg" alt="" /></a>
+				<div class="inner">
+					<h4>Terraformed a small moon</h4>
+					<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+				</div>
+			</article>
+			<article>
+				<a href="#" class="image"><img src="images/cosmology.jpg" alt="" /></a>
+				<div class="inner">
+					<h4>Snapped dark matter in the wild</h4>
+					<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+				</div>
+			</article>
+		</div>
+	</div>
+</section>
 
-    
-  {% for post in paginator.posts %}
-    {% unless post.pinned %}
-      <div class="post">
-        <h1 class="post-title">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h1>
-    
-    
-        {{ post.content }}
-      </div>
-    {% endunless %}
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+
+<section id="publications">
+    <div class="container">
+		<h3>Publications</h3>
+    	<ol>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    	</ol>
+    </div>
+</section>
+
+<section id="talks">
+    <div class="container">
+		<h3>Talks</h3>
+    	<ol>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    	</ol>
+    </div>
+</section>
+
+<section id="software">
+    <div class="container">
+		<h3>Software</h3>
+    	<ol>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    	</ol>
+    </div>
+</section>
+
+<section id="outreach">
+    <div class="container">
+		<h3>Outreach</h3>
+    	<ol>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    		<li>Dolor pulvinar etiam magna etiam.</li>
+    		<li>Etiam vel felis at lorem sed viverra.</li>
+    		<li>Felis enim feugiat dolore viverra.</li>
+    	</ol>
+    </div>
+</section>
+
+
+
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
