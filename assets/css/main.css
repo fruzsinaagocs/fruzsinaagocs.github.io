@@ -2810,7 +2810,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #1D2954 !important;
+							color: #84a5df !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3032,7 +3032,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background: #1D2954;
 				color: #fff;
 				min-width: 320px;
 			}
