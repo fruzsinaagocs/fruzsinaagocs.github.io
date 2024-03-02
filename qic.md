@@ -3,7 +3,7 @@ layout: page
 title: Quantum initial conditions for inflation
 ---
 
-- [paper](https://arxiv.org/abs/2002.07042) 
+- _paper_ <a href="https://arxiv.org/abs/2002.07042" class="button primary small icon solid fa-external-link-alt">arXiv</a>
 
 In numerical simulations of the early universe, primordial perturbations are
 modelled and evolved from soon after the Big Bang until today. The simulations need to start the perturbations from some initial state (initial conditions), which depends on the way the quantum vacuum was defined. This definition is far from trivial on a time-dependent spacetime.
