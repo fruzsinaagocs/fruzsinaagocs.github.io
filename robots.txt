@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fruzsinaagocs.github.io/sitemap.xml
