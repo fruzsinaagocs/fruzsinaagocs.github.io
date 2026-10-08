@@ -1,0 +1,354 @@
+cv:
+  name: Fruzsina Julia Agocs
+  label: Assistant Professor in Computer Science
+  email: fruzsina.agocs@colorado.edu
+  location: Boulder, CO
+  image: ""
+  summary: Assistant Professor working on developing adaptive, high-order accurate numerical methods for the solution of PDEs and ODEs (particularly oscillatory problems and complex geometric settings). With a background in computational and theoretical cosmology, and experience in publishing open-source software.
+
+  social_networks:
+    - network: GitHub
+      username: fruzsinaagocs
+    - network: LinkedIn
+      username: fruzsina-julia-agocs
+
+  address:
+    street: Engineering Center, ECOT 614 
+    city: Boulder
+    region: Colorado
+    postalCode: CO 80301
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: University of Cambridge
+        location: Cambridge, UK
+        url: https://www.cam.ac.uk/
+        area: Theoretical and Computational Cosmology
+        studyType: PhD
+        start_date: 2017
+        end_date: 2021
+        score: ""
+        highlights:
+          - Advised by Anthony Lasenby, Mike Hobson, and Will Handley.
+          - Thesis titled "Primordial evolution of cosmological perturbations, Theory and computation"
+
+      - institution: University of Cambridge
+        location: Cambridge, UK
+        area: Theoretical and Experimental Physics
+        studyType: MSci
+        start_date: 2016
+        end_date: 2017
+        highlights:
+          - First class
+
+      - institution: University of Cambridge
+        location: Cambridge, UK
+        area: Natural Sciences (Physics)
+        studyType: BA
+        start_date: 2013
+        end_date: 2016
+        highlights:
+          - First class
+
+
+    Experience:
+      - company: Department of Computer Science, University of Colorado at Boulder
+        position: Assistant Professor
+        location: Boulder, CO
+        start_date: 2024
+        end_date: present
+
+      - company: Center for Computational Mathematics, Flatiron Institute
+        position: Flatiron Research Fellow
+        location: New York, NY
+        start_date: 2021
+        end_date: 2024
+
+      - company: British Antarctic Survey
+        position: Research student
+        location: Cambridge, UK
+        start_date: Jul 2019
+        end_date: Jan 2020
+
+      - company: Kokoon Technology Ltd
+        position: Research Engineer (intern)
+        location: London, UK
+        start_date: Jul 2017
+        end_date: Aug 2017
+
+      - company: Kokoon Technology Ltd
+        position: Research Engineer (intern)
+        location: London, UK
+        start_date: Jul 2016
+        end_date: Sep 2016
+
+      - company: Institute of Astronomy, University of Cambridge
+        position: Research student
+        location: Cambridge, UK
+        start_date: Jun 2015
+        end_date: Sep 2015
+
+    Awards:
+      - title: STFC PhD award
+        date: 2017-2021
+
+      - title: Duncan Bruce memorial prize
+        date: 2017
+        awarder: Gonville and Caius college, University of Cambridge
+        summary: Awarded for excellence in Physics
+
+      - title: Senior scholarship
+        date: 2016
+        awarder: Gonville and Caius college, University of Cambridge
+        summary: Awarded for academic excellence
+
+    Publications:
+      - title: Integral equations for flexural scattering problems with periodic boundaries
+        authors:
+        - Fruzsina J. Agocs
+        - Tristan Goodwill
+        - Jeremy G. Hoskins
+        - Peter Nekrasov
+        publisher: arXiv
+        releaseDate: '2026-02-27'
+        url: https://arxiv.org/abs/2603.00366
+        summary: Presents a boundary integral equation method to simulate flexural wave scattering by periodic boundaries and junctions of semi-infinite scatterer arrays.
+
+      - title: An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries
+        authors:
+        - Riley Fisher
+        - Fruzsina J. Agocs
+        - Adrianna Gillman
+        publisher: arXiv
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2511.04424
+        summary: Presents an efficient boundary integral equation approach for Helmholtz scattering from periodic boundaries excited by a non-periodic source. The method presented improves on previous approaches by precomputing shared quantities among solves in a Floquet-Bloch transform, using the Woodbury formula, and by implementing corner compression.
+
+      - title: Complex Scaling for the Junction of Semi-infinite Gratings
+        authors:
+        - Fruzsina J. Agocs
+        - Tristan Goodwill
+        - Jeremy G. Hoskins
+        publisher: arXiv
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2509.02951
+        summary: Develops and analyzes a complex-scaled integral equation approach for scattering from joined semi-infinite periodic structures.
+
+      - title: 'The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning'
+        authors:
+        - Ruben Ohana
+        - Michael McCabe
+        - Lucas Meyer
+        - Rudy Morel
+        - Fruzsina J. Agocs
+        - Miguel Beneitez
+        - Marsha Berger
+        - Blakesley Burkhart
+        - Stuart B. Dalziel
+        - Drummond B. Fielding
+        - Daniel Fortunato
+        - Jared A. Goldberg
+        - Keiya Hirashima
+        - Yan-Fei Jiang
+        - Rich R. Kerswell
+        - Suryanarayana Maddu
+        - Jonah Miller
+        - Payel Mukhopadhyay
+        - Stefan S. Nixon
+        - Jeff Shen
+        - Romain Watteaux
+        - Bruno Régaldo-Saint Blancard
+        - François Rozet
+        - Liam Holden Parker
+        - Miles D. Cranmer
+        - Shirley Ho
+        publisher: Advances in Neural Information Processing Systems (NeurIPS)
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2412.00568
+        summary: Introduces The Well, a large and varied collection of numerical physics simulations designed to support training and evaluation of scientific machine-learning methods.
+
+      - title: 'Trapped acoustic waves and raindrops: High-order accurate integral equation method for localized excitation of a periodic staircase'
+        authors:
+        - Fruzsina J. Agocs
+        - Alex H. Barnett
+        publisher: Journal of Computational Physics
+        releaseDate: 2024
+        url: https://doi.org/10.1016/j.jcp.2024.113383
+        summary: Develops a high-order integral equation method for the localized excitation of an infinite periodic staircase, and analyzes the emerging trapped acoustic waves and related scattering behavior.
+
+      - title: Quantum initial conditions for curved inflating universes
+        authors:
+        - M. I. Letey
+        - Z. Shumaylov
+        - Fruzsina J. Agocs
+        - W. J. Handley
+        - M. P. Hobson
+        - A. N. Lasenby
+        publisher: Physical Review D
+        releaseDate: '2024-06-03'
+        url: https://doi.org/10.1103/PhysRevD.109.123502
+        summary: Examines the construction and quantization of inflationary perturbations in curved universes and the choice of their quantum initial conditions.
+
+      - title: An adaptive spectral method for oscillatory second-order linear ODEs with frequency-independent cost
+        authors:
+        - Fruzsina J. Agocs
+        - Alex H. Barnett
+        publisher: SIAM Journal on Numerical Analysis
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2212.06924
+        summary: Presents an adaptive spectral solver for second-order linear differential equations whose cost can remain essentially independent of oscillation frequency.
+
+      - title: 'riccati: an adaptive, spectral solver for oscillatory ODEs'
+        authors:
+        - Fruzsina J. Agocs
+        - Alex H. Barnett
+        publisher: Journal of Open Source Software
+        releaseDate: 2023
+        url: https://joss.theoj.org/papers/10.21105/joss.05430
+        summary: Introduces open-source software using adaptive spectral techniques to solve rapidly oscillatory ordinary differential equations efficiently.
+
+      - title: Finite inflation in curved space
+        authors:
+        - L. T. Hergt
+        - Fruzsina J. Agocs
+        - W. J. Handley
+        - M. P. Hobson
+        - A. N. Lasenby
+        publisher: Physical Review D
+        releaseDate: 2022
+        url: https://arxiv.org/abs/2205.07374
+        summary: Studies finite-duration inflation in spatially curved cosmologies and its implications for cosmological perturbations.
+
+      - title: Simple and statistically sound recommendations for analysing physical theories
+        authors:
+        - Shehu S. AbdusSalam
+        - Fruzsina J. Agocs
+        - Benjamin C. Allanach
+        - Peter Athron
+        - Csaba Balázs
+        - Emanuele Bagnaschi
+        - Philip Bechtle
+        - Oliver Buchmueller
+        - Ankit Beniwal
+        - Jihyun Bhom
+        - Sanjay Bloor
+        - Torsten Bringmann
+        - Andy Buckley
+        - Anja Butter
+        - José Eliel Camargo-Molina
+        - Marcin Chrzaszcz
+        - Jan Conrad
+        - Jonathan M. Cornell
+        - Matthias Danninger
+        - Jorge de Blas
+        - Albert De Roeck
+        - Klaus Desch
+        - Matthew Dolan
+        - Herbert Dreiner
+        - Otto Eberhardt
+        - John Ellis
+        - Ben Farmer
+        - Marco Fedele
+        - Henning Flächer
+        - Andrew Fowlie
+        - Tomás E. Gonzalo
+        - Philip Grace
+        - Matthias Hamer
+        - Will Handley
+        - Julia Harz
+        - Sven Heinemeyer
+        - Sebastian Hoof
+        - Selim Hotinli
+        - Paul Jackson
+        - Felix Kahlhoefer
+        - Kamila Kowalska
+        - Michael Krämer
+        - Anders Kvellestad
+        - Miriam Lucio Martinez
+        - Farvah Mahmoudi
+        - Diego Martinez Santos
+        - Gregory D. Martinez
+        - Satoshi Mishima
+        - Keith Olive
+        - Ayan Paul
+        - Markus Tobias Prim
+        - Werner Porod
+        - Are Raklev
+        - Janina J. Renk
+        - Christopher Rogan
+        - Leszek Roszkowski
+        - Roberto Ruiz de Austri
+        - Kazuki Sakurai
+        - Andre Scaffidi
+        - Pat Scott
+        - Enrico Maria Sessolo
+        - Tim Stefaniak
+        - Patrick Stöcker
+        - Wei Su
+        - Sebastian Trojanowski
+        - Roberto Trotta
+        - Yue-Lin Sming Tsai
+        - Jeriek Van den Abeele
+        - Mauro Valli
+        - Aaron C. Vincent
+        - Georg Weiglein
+        - Martin White
+        - Peter Wienemann
+        - Lei Wu
+        - Yang Zhang
+        publisher: Reports on Progress in Physics
+        releaseDate: '2022-04-29'
+        url: https://doi.org/10.1088/1361-6633/ac60ac
+        summary: Gives accessible guidance on statistically reliable inference and software for evaluating physical models with many parameters or experimental constraints.
+
+      - title: 'Primordial evolution of cosmological perturbations: theory and computation'
+        authors:
+        - Fruzsina J. Agocs
+        publisher: University of Cambridge
+        releaseDate: 2022
+        url: https://www.repository.cam.ac.uk/items/0e54f069-095a-4724-95c8-b46153488675
+        summary: Doctoral thesis on theoretical and numerical aspects of primordial cosmological perturbations.
+
+      - title: Dense output for highly oscillatory numerical solutions
+        authors:
+        - Fruzsina J. Agocs
+        - M. P. Hobson
+        - W. J. Handley
+        - A. N. Lasenby
+        publisher: arXiv
+        releaseDate: '2020-07-09'
+        url: https://arxiv.org/abs/2007.05013
+        summary: Constructs dense output for rapidly oscillating numerical solutions using extensions of WKB approximations and Runge–Kutta methods.
+
+      - title: '(py)oscode: fast solutions of oscillatory ODEs'
+        authors:
+        - Fruzsina J. Agocs
+        publisher: Journal of Open Source Software
+        releaseDate: 2020
+        url: https://doi.org/10.21105/joss.02830
+        summary: Describes a Python package for efficient numerical integration of oscillatory differential equations using a hybrid WKB and Runge–Kutta approach.
+
+      - title: Quantum initial conditions for inflation and canonical invariance
+        authors:
+        - Fruzsina J. Agocs
+        - L. T. Hergt
+        - W. J. Handley
+        - A. N. Lasenby
+        - M. P. Hobson
+        publisher: Physical Review D
+        releaseDate: 2020
+        url: https://arxiv.org/abs/2002.07042
+        summary: Investigates quantum initial states for inflationary fluctuations and their dependence on the choice of canonical variables.
+
+      - title: Efficient method for solving highly oscillatory ordinary differential equations with applications to physical systems
+        authors:
+        - Fruzsina J. Agocs
+        - W. J. Handley
+        - A. N. Lasenby
+        - M. P. Hobson
+        publisher: Physical Review Research
+        releaseDate: 2020
+        url: https://arxiv.org/abs/1906.01421
+        summary: Presents a fast hybrid WKB and Runge–Kutta method for oscillatory ordinary differential equations, including applications in physics.
+

@@ -1,0 +1,43 @@
+---
+layout: course
+title: CSCI 5526 Computational Tools for Multiscale Problems
+description: Physical phenomena are often described in terms of ordinary and partial differential equations (ODEs and PDEs) with interactions and features on multiple scales. Some of these systems are notoriously hard to solve but are of great interest in scientific and engineering applications. In this course you will learn about state-of-the-art methods and software for the fast numerical solution of such systems, focusing on several types of oscillatory ODEs and PDEs in complex geometric settings. We will cover hybrid methods for oscillatory and stiff ODEs, asymptotic approximations, specialized quadrature methods for numerical integration, and introduce powerful boundary integral-based methods for PDEs. We will review famous publications and use both long-standing and cutting edge software packages.
+instructor: Fruzsina Agocs
+year: 2025
+term: Fall
+course_id: comptools25
+---
+
+## Course Overview
+
+Learning goals:
+
+- Be familiar with established and novel numerical tools (methods and software) for fundamental computational tasks: interpolation, quadrature, solution of ODEs, solution of linear PDEs with boundary integral equation methods.
+- Understand how to assess whether a numerical solution is satisfactory, learn to evaluate what accuracy one can reasonably demand.
+- Learn to build robust numerical software and (unit, convergence) test it.
+- Distill information from numerical analysis research; summarize, communitate results by presentation.
+- Deliver constructive feedback on presentations.
+
+## Prerequisites
+
+Recommended:
+- Linear algebra, calculus, complex analysis
+- CSCI 3656 Numerical Computation
+- CSCI 5636 Numerical Solution of Partial Differential Equations
+- Python or MATLAB programming language
+
+## Resources
+
+- Trefethen, L. N. (2019). Approximation theory and approximation practice. (available online through author)
+- Driscoll, T. A., & Braun, R. J. (2017). Fundamentals of Numerical Computation. (available online through author)
+- Corless, R. M., & Fillion, N. (2013). A graduate introduction to numerical methods. (PDF through publisher)
+- Hairer, E., Nørsett, S. P., & Wanner, G. Solving Ordinary Differential Equations I-II. (PDF I and PDF II through publisher)
+- Trefethen, L. N. (2000). Spectral methods in MATLAB. (Chapter-by-chapter PDFs through publisher)
+- Alex Barnett’s Math 126 Numerical analysis for PDEs and wave scattering lecture notes (hand-written notes online)
+- Kress, R. (1999). Linear integral equations. (PDF through publisher)
+- Further resources will be listed in the lecture notes/homework sheets.
+
+## Grading
+
+- In-class quizzes: 90%
+- Attendance: 10%
