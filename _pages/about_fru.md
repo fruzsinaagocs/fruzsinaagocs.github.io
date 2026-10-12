@@ -1,3 +1,8 @@
+The CompTools group has open PhD positions! 
+More information on [this page](https://fruzsinaagocs.github.io/news/phd_applicants).
+
+---
+
 I'm an Assistant Professor in Computer Science at CU Boulder (since August
 2024) and the PI of this group.
 
